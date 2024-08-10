@@ -6,7 +6,9 @@ Además, he implementado una función que genera un gráfico de barras que muest
 **Caracteristicas**
 
   -Gestión de categorías: Crea y administra categorías de gasto.
+  
   -Operaciones financieras: Realiza depósitos, retiros y transferencias entre categorías.
+  
   -Visualización: Genera un gráfico de barras que muestra el porcentaje de gasto por categoría.
 
 🤝 Contribuciones
